@@ -4,7 +4,7 @@
 A Python-based virtual pet game that demonstrates object-oriented programming principles with an interactive command-line interface.
 
 ![Virtual Pet Demo](./sceenshot.jpeg) 
-*(Replace with actual screenshot later)*
+
 
 ## 🛠️ Technologies Used
 - Python 3.8+
