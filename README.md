@@ -1,4 +1,4 @@
-# OOP-Challenge
+# OOP-Challenge (Group 400 Solution)
 # 🐾 Virtual Pet Simulator
 
 A Python-based virtual pet game that demonstrates object-oriented programming principles with an interactive command-line interface.
